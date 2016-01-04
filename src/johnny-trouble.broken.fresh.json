@@ -1,0 +1,247 @@
+{
+
+  "name": "Johnny Trouble",
+
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+
+  "info": {
+    "label": "Director of Security",
+    "characterClass": "Security Director",
+    "brief": "The east coast's most celebrated security authority.",
+    "image": "",
+    "quote": "*What can go wrong, will go wrong.*"
+  },
+
+  "contact": {
+    "website": "https://a-problematic-url.io#section?q=123&z=242",
+    "phone": "1—999—888—7777",
+    "email": "johnny@it-doesnt-exist.net"
+  }
+
+  "location": {
+    "address": "123 Anybody's Guess Rd.\nNew York, NY 10019",
+    "city": "New York",
+    "region": "NY",
+    "code": "10019",
+    "country": "US"
+  },
+
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "janef-was-here",
+      "url": "https://a-problematic-url.io#section?q=123&z=242"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "janef-was-here",
+      "url": "https://a-problematic-url.io?q=123&z=242"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "More than seven (> 7) years security experience.",
+
+    "history": [
+
+      {
+        "employer": "AB&C's Awesome <Tagged> **Company**",
+        "url": "https://a-problematic-url.io?q=123&z=242",
+        "position": "Director, *Security Service's*",
+        "summary": "A *troublesome* **summary** with strange characters: < > # `hello` & ? and a [link](https://en.wikipedia.org/wiki/Vaporware). ",
+        "start": "2012-01",
+        "current": true,
+        "keywords": [ "A&B&C","GT >", "LT <" ],
+        "highlights": ["Increased profits by > 20% & **did something important**. Let's use an apostrophe."]
+      }
+    ]
+
+  }
+
+  "education": {
+    "summary": "A *troublesome* **summary** with strange characters: < > # `hello` & ? and a [link](https://en.wikipedia.org/wiki/Vaporware). ",
+    "level": "degree",
+    "degree": "BSCS",
+    "history": [
+      {
+        "institution": "'Doesn't Exist' College",
+        "url": "https://a-problematic-url.io#section?q=123&z=242",
+        "start": "2003-09",
+        "end": "2005-06",
+        "grade": "3.2",
+        "summary": "<p>A multiline HTML-formatted summary of the education.</p><p>Second paragraph</p>\n\nAnd some **Markdown**.",
+        "curriculum": ["Course #1", "Course #2: \"CS + CORE\"", "A <course> with brackets."]
+      }
+    ]
+  },
+
+  "service": {
+
+    "history": [
+      {
+        "flavor": "volunteer",
+        "position": "Volunteer",
+        "organization": "Security Awareness Meetup",
+        "url": "https://a-problematic-url.io#section?q=123&z=242",
+        "start": "2003-11",
+        "end": "2005-06",
+        "summary": "A *troublesome* **summary** with strange characters: < > # `hello` & ? and a [link](https://en.wikipedia.org/wiki/Vaporware). ",
+        "highlights": [
+          "Increased profits by > 20% & **did something important**. Let's use an apostrophe.",
+          "Accomplishment 2",
+          "etc"
+        ]
+      }
+    
+
+  },
+
+  "skills": {
+    "sets": [
+      {
+        "name": "Skill #1 <1> & 1 it's good.",
+        "level": "advanced",
+        "skills": [
+          "<keyword1>", "#hashtags", "this & that"
+        ]
+      },
+      {
+        "name": "Skill #2 <2> & 2 it's good.",
+        "level": "master",
+        "skills": [
+          "<keyword1>", "#hashtags", "this & that"
+        ]
+      }
+    ]
+  },
+
+  "samples": [
+    {
+      "title": "A <em>Troublesome</em> Sample with **Markdown**",
+      "summary": "Can we use & and > and < and ? and `this`.",
+      "url": "http://a-problematic-url.io#section?q=123&z=242",
+      "date": "2011-02"
+    },
+    {
+      "title": "A*nother* troublesome <strong>sample</strong> & gauntlet.",
+      "summary": "-------------------------------- NO ---",
+      "url": "https://a-problematic-url.io#section?q=123&z=242",
+      "date": "2010-05-01"
+    }
+  ],
+
+  "writing": [
+    {
+      "title": "Johnny Trouble's Blog #1 & Home Page",
+      "flavor": "blog",
+      "date": "2012",
+      "publisher": {
+        "name": "self",
+        "url": "https://a-problematic-url.io#section?q=123&z=242"
+      },
+      "url": "https://a-problematic-url.io#section?q=123&z=242"
+    }
+  ],
+
+  "reading": [
+    {
+      "title": "*It's A \"Heck\" of a Book & Story*",
+      "flavor": "book",
+      "url": "http://a-problematic-url.io#section?q=123&z=242",
+      "author": "Joe d'Oesn't Exist"
+    }
+  ],
+
+  "speaking": [
+    {
+      "title": "Title: !@#$%^&*()",
+      "role": "Speaker",
+      "event": "SECURECON-2013 Developer's Conference",
+      "location": "Doesn't Exist, NJ",
+      "date": "2012",
+      "highlights": [
+        "Just some funny chars > 20% & **yay**. Let's use an apostrophe ###!."
+      ]
+    }
+  ],
+
+  "recognition": [
+    {
+      "flavor": "award",
+      "from": "Google",
+      "title": "Honorable Mention",
+      "event": "Summer of Code",
+      "date": "2012"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Harry D'Agostino",
+      "flavor": "professional",
+      "private": true,
+      "contact": [
+        {
+          "label": "Mobile",
+          "flavor": "phone",
+          "value": "1--(999)--999--9999"
+        },
+        {
+          "label": "Work email",
+          "flavor": "email",
+          "value": "jgoatino@not-google.com"
+        }
+      ]
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Harry D'Agostino & Tom Shanklight",
+      "flavor": "personal",
+      "quote": "Testimonial **here** and [an empty link here](#)."
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    }
+  ],
+
+  "extracurricular": [
+    {
+      "title": "Organizer / Manager & Coach",
+      "activity": "New York >30 Baseball League",
+      "location": "NY",
+      "start": "2009-03",
+      "highlights": [
+        "Just some funny chars > 20% & **yay**. Let's use an apostrophe ###!."
+      ]
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "trou'blesome **interest** #1",
+      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
+    },
+    {
+      "name": "hiking & outdoors",
+      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+    },
+    {
+      "name": "!@#$%^&*()-_[{}]"
+    }
+  ]
+
+
+}

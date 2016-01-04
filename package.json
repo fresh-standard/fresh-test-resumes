@@ -1,0 +1,33 @@
+{
+  "name": "fresh-test-resumes",
+  "version": "0.1.0",
+  "description": "Test résumés and CVs in FRESH format.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluentdesk/fresh-test-resumes.git"
+  },
+  "keywords": [
+    "resume",
+    "CV",
+    "FRESH",
+    "FluentCV",
+    "HackMyResume",
+    "schema",
+    "JSON",
+    "employment"
+  ],
+  "author": "hacksalot <hacksalot@indevious.com> (http://indevious.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluentdesk/fresh-test-resumes/issues"
+  },
+  "main": "index.js",
+  "homepage": "https://github.com/fluentdesk/fresh-test-resumes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
