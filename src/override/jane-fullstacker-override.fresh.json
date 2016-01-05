@@ -1,0 +1,15 @@
+{
+
+  "name": "Jane Fullstacker",
+
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+
+  "info": {
+    "label": "Game Developer",
+    "brief": "**Custom game developer** summary here."
+  }
+
+}
