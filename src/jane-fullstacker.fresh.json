@@ -3,8 +3,8 @@
   "name": "Jane Q. Fullstacker",
 
   "meta": {
-    "format": "FRESH@0.3.0",
-    "version": "0.2.0"
+    "format": "FRESH@0.3.1",
+    "version": "0.2.2"
   },
 
   "info": {
@@ -52,6 +52,7 @@
       "category": "FOSS",
       "role": "contributor",
       "url": "http://please.hackmyresume.com",
+      "start": "2015-09",
       "repo": "https://github.com/hacksalot/hackmyresume",
       "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
       "summary": "Exemplar user for HackMyResume and FluentCV!",
@@ -70,6 +71,8 @@
       "url": "http://project.website.com",
       "repo": "http://repo.website.com",
       "description": "An augmented reality app for Android.",
+      "start": "2012-02",
+      "end": "2014-01",
       "summary": "Performed flagship product conceptualization and development.",
       "keywords": ["Android", "Java", "Xamarin"]
     },
@@ -164,6 +167,7 @@
 
       {
         "institution": "Cornell University",
+        "title": "BSCS",
         "url": "https://www.cornell.edu/",
         "start": "2005-09",
         "end": "2008-05",
@@ -218,7 +222,7 @@
 
     "sets": [
       {
-        "name": "Web Development",
+        "name": "Web",
         "level": "advanced",
         "skills": [
           "JavaScript", "HTML 5", "CSS", "LAMP", "MVC", "REST"
