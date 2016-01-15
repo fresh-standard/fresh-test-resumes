@@ -3,8 +3,8 @@
   "name": "Johnny Trouble",
 
   "meta": {
-    "format": "FRESH@0.1.0",
-    "version": "0.1.0"
+    "format": "FRESH@0.4.0",
+    "version": "0.2.0"
   },
 
   "info": {
@@ -19,7 +19,7 @@
     "website": "https://a-problematic-url.io#section?q=123&z=242",
     "phone": "1—999—888—7777",
     "email": "johnny@it-doesnt-exist.net"
-  }
+  },
 
   "location": {
     "address": "123 Anybody's Guess Rd.\nNew York, NY 10019",
@@ -62,7 +62,7 @@
       }
     ]
 
-  }
+  },
 
   "education": {
     "summary": "A *troublesome* **summary** with strange characters: < > # `hello` & ? and a [link](https://en.wikipedia.org/wiki/Vaporware). ",
@@ -98,7 +98,7 @@
           "etc"
         ]
       }
-    
+    ]
 
   },
 
@@ -179,7 +179,26 @@
       "event": "Summer of Code",
       "date": "2012"
     }
-  ],
+  ]
+
+  "affiliation": {
+    "summary": "Member of numerous collegiate and professional groups and organizations.",
+    "history": [
+      {
+        "role": "!@#$^#%^)(#$%*@)",
+        "organization": "ORG'S <NAME>",
+        "url": "https://www.someurl.com",
+        "start": "1960",
+        "summary": "Test **Markdown** and <em>HTML</em> formatting and backticks `<p></p>` and <brackets>."
+      },
+      {
+        "role": "",
+        "organization": "!@#$^#%^)(#$%*@)",
+        "url": "https://developer.apple.com/",
+        "summary": "!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)!@#$^#%^)(#$%*@)"
+      }
+    ]
+  },
 
   "references": [
     {
@@ -214,7 +233,7 @@
       "language": "English",
       "level": "Native"
     }
-  ],
+
 
   "extracurricular": [
     {
