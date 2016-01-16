@@ -1,14 +1,19 @@
 fresh-test-resumes
 ==================
-Test résumés and CVs in [FRESH][f] format. For testing purposes.
+Test résumés and CVs in [FRESH][f] format and JSON Resume formats. For testing
+purposes.
 
 - [**empty.fresh.json**][e]: An empty FRESH résumé.
+
 - [**jane-fullstacker.fresh.json**][jq]: Jane Q. Fullstacker's valid FRESH
 résumé (a normal resume).
+
 - [**johnny-trouble.fresh.json**][jt]: Johnny Trouble's valid FRESH résumé (a
 resume full of garbage characters).
+
 - [**johnny-trouble.broken.json**][jtb]: Broken version of Johnny Trouble's
 résumé (a resume with numerous JSON syntax errors.)
+
 - [**starter-resume.fresh.json**][s]: A starter résumé with sample data.
 
 ## License
