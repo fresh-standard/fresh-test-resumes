@@ -1,0 +1,49 @@
+{
+
+  "name": "Jane Q. Fullstacker",
+
+  "meta": {
+    "format": "FRESH@0.4.0",
+    "version": "0.3.0"
+  },
+
+  "info": {
+    "label": "Senior Developer",
+    "characterClass": "Programmer",
+    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
+    "image": "jane_doe.png",
+    "quote": "Be the change you want to see in the world."
+  },
+
+  "contact": {
+    "website": "http://janef.me/blog",
+    "phone": "1-650-999-7777",
+    "email": "jdoe@onecoolstartup.io",
+    "other": [
+      {
+        "label": "Home Phone",
+        "flavor": "phone",
+        "value": "1-650-999-4321"
+      },
+      {
+        "label": "Work Phone",
+        "flavor": "phone",
+        "value": "1-650-777-1234"
+      },
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "jane@janef.me"
+      }
+    ]
+  },
+
+  "location": {
+    "address": "Jane Fullstacker\n123 Somewhere Rd.\nMountain View, CA 94035",
+    "city": "Mountain View",
+    "region": "CA",
+    "code": "94035",
+    "country": "US"
+  }
+  
+}

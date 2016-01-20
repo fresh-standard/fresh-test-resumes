@@ -1,0 +1,186 @@
+{
+
+  "name": "Jane Q. Fullstacker",
+
+  "meta": {
+    "format": "FRESH@0.4.0",
+    "version": "0.3.0"
+  },
+
+  "projects": [
+    {
+      "title": "HackMyResume",
+      "category": "FOSS",
+      "role": "contributor",
+      "url": "http://please.hackmyresume.com",
+      "start": "2015-09",
+      "repo": "https://github.com/hacksalot/hackmyresume",
+      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
+      "summary": "Exemplar user for HackMyResume and FluentCV!",
+      "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
+      "media": [
+        {
+          "category": "download",
+          "url": "https://www.npmjs.com/package/hackmyresume"
+        }
+      ]
+    },
+    {
+      "title": "Augmented Android",
+      "category": "commercial",
+      "role": "co-creator",
+      "url": "http://project.website.com",
+      "repo": "http://repo.website.com",
+      "description": "An augmented reality app for Android.",
+      "start": "2012-02",
+      "end": "2014-01",
+      "summary": "Performed flagship product conceptualization and development.",
+      "keywords": ["Android", "Java", "Xamarin"]
+    },
+    {
+      "title": "Blog",
+      "category": "personal",
+      "role": "creator",
+      "url": "http://myblog.jane.com/blog",
+      "description": "My programming blog. Powered by Jekyll.",
+      "summary": "Conceptualization, design, development, and deployment.",
+      "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
+    }
+  ],
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "janef-was-here",
+      "url": "https://github.com/janef-was-here"
+    },
+
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "janef-was-here",
+      "url": "https://twitter.com/janef-was-here"
+    }
+  ],
+
+  "employment": {
+
+    "summary": "7+ years industry IT and software development experience.",
+
+    "history": [
+
+      {
+        "employer": "One Cool Startup",
+        "url": "https://onecool.io/does-not-exist",
+        "position": "Head Code Ninja",
+        "summary": "Development team manager for [OneCoolApp](https://en.wikipedia.org/wiki/Vaporware) and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.",
+        "start": "2013-09",
+        "current": true,
+        "keywords": ["Agile","PM","Amazon Web Services","AWS"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+      },
+
+      {
+        "employer": "Veridian Dynamics",
+        "url": "https://en.wikipedia.org/wiki/Better_Off_Ted#Plot",
+        "position": "Principal Developer",
+        "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
+        "start": "2011-07",
+        "end": "2013-08",
+        "keywords": ["C++","C","Linux"],
+        "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
+      },
+
+      {
+        "employer": "Stark Industries",
+        "position": "IT Administrator",
+        "summary": "Junior programmer with heavy code responsibilities. Promoted to intermediate role after 6 months.",
+        "start": "2008-10",
+        "end": "2011-06",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Promoted to intermediate developer after 6 months", "Accomplishment 2", "Etc."]
+      },
+
+      {
+        "employer": "Dunder Mifflin",
+        "position": "Intern",
+        "summary": "Performed IT administration and deployments for Dunder Mifflin.",
+        "start": "2008-06",
+        "end": "2008-09",
+        "keywords": ["Novell","Active Directory","Linux","Windows"],
+        "highlights": ["Supervised roll-out of Dunder Mifflin Infinity website.", "Performed mission-critical system backups and ", "Etc."]
+      }
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "BSCS",
+
+    "history": [
+
+      {
+        "institution": "Cornell University",
+        "title": "BSCS",
+        "url": "https://www.cornell.edu/",
+        "start": "2005-09",
+        "end": "2008-05",
+        "grade": "3.5",
+        "summary": "A multiline summary of the education.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      },
+
+      {
+        "institution": "Medfield College",
+        "url": "https://en.wikipedia.org/wiki/Medfield_College",
+        "start": "2003-09",
+        "end": "2005-06",
+        "grade": "3.2",
+        "summary": "A multiline summary of the education.",
+        "curriculum": ["Course 1", "Course 2", "Course 2"]
+      }
+    ]
+
+  },
+
+  "affiliation": {
+    "summary": "Member of numerous collegiate and professional groups and organizations.",
+    "history": [
+      {
+        "role": "Member",
+        "organization": "IEEE",
+        "url": "https://www.ieee.org/index.html",
+        "start": "2013-06",
+        "summary": "Member in good standing since 2013-06."
+      },
+      {
+        "role": "Member",
+        "organization": "Apple Developer Network",
+        "url": "https://developer.apple.com/",
+        "summary": "Member of the [Apple Developer program](https://developer.apple.com/) since 2008."
+      },
+      {
+        "role": "Subscriber",
+        "organization": "MSDN",
+        "url": "https://msdn.microsoft.com",
+        "start": "2010",
+        "summary": "Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription toaster and XBox ping pong racket."
+      },
+      {
+        "role": "Coordinator",
+        "organization": "Campus Coder's Meetup",
+        "start": "2003-02",
+        "end": "2004-04",
+        "summary": "Host of a monthly **campus-wide meetup for CS students**. Code, coffee, and crullers!"
+      }
+    ]
+  }
+
+}
