@@ -27,7 +27,8 @@ Mount individual resumes onto the module object for convenience.
     jrs: {
       empty: require('./src/jrs/empty.json'),
       johndoe: require('./src/jrs/john-doe.json'),
-      richard: require('./src/jrs/richard-hendriks')
+      richard: require('./src/jrs/richard-hendriks'),
+      jane: require('./src/jrs/jane-fullstacker')
     }
 
   };
