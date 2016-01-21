@@ -3,14 +3,14 @@
   "name": "Jane Q. Fullstacker",
 
   "meta": {
-    "format": "FRESH@0.4.0",
-    "version": "0.3.0"
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
   },
 
   "info": {
     "label": "Senior Developer",
     "characterClass": "Programmer",
-    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
+    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
     "image": "jane_doe.png",
     "quote": "Be the change you want to see in the world."
   },
@@ -45,5 +45,5 @@
     "code": "94035",
     "country": "US"
   }
-  
+
 }

@@ -3,8 +3,8 @@
   "name": "",
 
   "meta": {
-    "format": "FRESH@0.4.0",
-    "version": "0.2.0"
+    "format": "FRESH@0.6.0",
+    "version": "0.3.0"
   },
 
   "info": {
@@ -85,7 +85,7 @@
     "summary": "",
     "history": [
       {
-        "flavor": "",
+        "category": "",
         "position": "",
         "organization": "",
         "url": "",
@@ -99,17 +99,24 @@
 
   "education": {
     "summary": "",
+    "title": "",
     "level": "",
     "degree": "",
     "history": [
       {
         "institution": "",
+        "title": "",
+        "area": "",
+        "studyType": "",
         "url": "",
         "start": "",
         "end": "",
         "grade": "",
         "summary": "",
-        "curriculum": []
+        "location": "",
+        "curriculum": [],
+        "keywords": [],
+        "highlights": []
       }
     ]
   },
@@ -125,10 +132,10 @@
 
   "recognition": [
     {
-      "flavor": "",
+      "category": "",
       "from": "",
       "title": "",
-      "event": "",
+      "url": "",
       "date": "",
       "summary": ""
     }
@@ -137,22 +144,25 @@
   "writing": [
     {
       "title": "",
-      "flavor": "",
+      "category": "",
       "date": "",
       "publisher": {
         "name": "",
         "url": ""
       },
-      "url": ""
+      "url": "",
+      "summary": ""
     }
   ],
 
   "reading": [
     {
       "title": "",
-      "flavor": "",
+      "category": "",
       "url": "",
-      "author": ""
+      "author": "",
+      "date": "",
+      "summary": ""
     }
   ],
 
@@ -160,20 +170,23 @@
     {
       "title": "",
       "event": "",
+      "summary": "",
       "location": "",
       "date": "",
-      "highlights": []
+      "highlights": [],
+      "keywords": []
     }
   ],
 
   "governance": [
     {
       "summary": "",
-      "flavor": "",
+      "category": "",
       "role": "",
       "organization": "",
       "start": "",
       "end": "",
+      "keywords": [],
       "highlights": []
     }
   ],
@@ -181,7 +194,8 @@
   "languages": [
     {
       "language": "",
-      "level": ""
+      "level": "",
+      "years": 0
     }
   ],
 
@@ -190,19 +204,23 @@
       "title": "",
       "summary": "",
       "url": "",
-      "date": ""
+      "date": "",
+      "highlights": [],
+      "keywords": []
     }
   ],
 
   "references": [
     {
       "name": "",
-      "flavor": "",
+      "role": "",
+      "category": "",
       "private": true,
+      "summary": "",
       "contact": [
         {
           "label": "",
-          "flavor": "",
+          "category": "",
           "value": ""
         }
       ]
@@ -212,8 +230,9 @@
   "testimonials": [
     {
       "name": "",
-      "flavor": "",
-      "quote": ""
+      "category": "",
+      "quote": "",
+      "private": false
     }
   ],
 
@@ -247,7 +266,8 @@
         "end": "",
         "summary": "",
         "location": "",
-        "highlights": []
+        "highlights": [],
+        "keywords": []
       }
     ]
   }

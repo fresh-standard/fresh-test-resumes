@@ -3,8 +3,8 @@
   "name": "Jane Q. Fullstacker",
 
   "meta": {
-    "format": "FRESH@0.4.0",
-    "version": "0.3.0"
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
   },
 
   "service": {
@@ -71,7 +71,7 @@
         "name": "Project",
         "level": "beginner",
         "skills": [
-          "Agile", "TFS", "Unified Process", "MS Project"
+          "Agile", "TFS", "JIRA", "GitHub", "Unified Process", "MS Project"
         ]
       }
     ],
@@ -166,26 +166,31 @@
 
   "reading": [
     {
-      "title": "Code Complete",
-      "flavor": "book",
-      "url": "http://www.cc2e.com/Default.aspx",
-      "author": "Steve McConnell"
-    },
-    {
       "title": "r/programming",
       "flavor": "website",
-      "url": "https://www.reddit.com/r/programming/"
+      "url": "https://www.reddit.com/r/programming/",
+      "summary": "Daily reader and longtime lurker."
     },
     {
       "title": "Hacker News / YCombinator",
       "flavor": "website",
-      "url": "https://news.ycombinator.com/"
+      "url": "https://news.ycombinator.com/",
+      "summary": "Daily reader and longtime lurker."
     },
     {
       "title": "Coding Horror",
       "flavor": "blog",
       "url": "http://www.codinghorror.com",
-      "author": "Jeff Atwood"
+      "author": "Jeff Atwood",
+      "summary": "Reader since 2007; member of the StackOverflow Beta."
+    },
+    {
+      "title": "Code Complete",
+      "flavor": "book",
+      "url": "http://www.cc2e.com/Default.aspx",
+      "author": "Steve McConnell",
+      "date": "2014-09",
+      "summary": "My 'desert-island' software construction manual."
     }
   ],
 
@@ -327,6 +332,5 @@
       "name": "yoga"
     }
   ]
-
 
 }

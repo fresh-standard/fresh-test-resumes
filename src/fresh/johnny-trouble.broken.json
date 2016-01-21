@@ -3,8 +3,8 @@
   "name": "Johnny Trouble",
 
   "meta": {
-    "format": "FRESH@0.4.0",
-    "version": "0.2.0"
+    "format": "FRESH@0.6.0",
+    "version": "0.2.1"
   },
 
   "info": {
@@ -71,6 +71,7 @@
     "history": [
       {
         "institution": "'Doesn't Exist' College",
+        "title": "**BSCS**",
         "url": "https://a-problematic-url.io#section?q=123&z=242",
         "start": "2003-09",
         "end": "2005-06",
@@ -179,7 +180,7 @@
       "event": "Summer of Code",
       "date": "2012"
     }
-  ]
+  ],
 
   "affiliation": {
     "summary": "Member of numerous collegiate and professional groups and organizations.",
@@ -233,7 +234,7 @@
       "language": "English",
       "level": "Native"
     }
-
+  ],
 
   "extracurricular": [
     {
@@ -245,7 +246,7 @@
         "Just some funny chars > 20% & **yay**. Let's use an apostrophe ###!."
       ]
     }
-  ],
+  ]
 
   "interests": [
     {

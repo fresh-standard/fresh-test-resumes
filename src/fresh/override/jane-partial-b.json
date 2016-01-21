@@ -3,8 +3,8 @@
   "name": "Jane Q. Fullstacker",
 
   "meta": {
-    "format": "FRESH@0.4.0",
-    "version": "0.3.0"
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
   },
 
   "projects": [
@@ -72,13 +72,12 @@
     "history": [
 
       {
-        "employer": "One Cool Startup",
-        "url": "https://onecool.io/does-not-exist",
+        "employer": "Area 52",
+        "url": "https://area52.io/does-not-exist",
         "position": "Head Code Ninja",
-        "summary": "Development team manager for [OneCoolApp](https://en.wikipedia.org/wiki/Vaporware) and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.",
+        "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
         "start": "2013-09",
-        "current": true,
-        "keywords": ["Agile","PM","Amazon Web Services","AWS"],
+        "keywords": ["Agile","PM","C","C++","R","OpenGL","Boost","MySQL","PostgreSQL","JIRA"],
         "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
       },
 
@@ -89,7 +88,7 @@
         "summary": "Developer on numerous projects culminating in technical lead role for the [Jabberwocky project](http://betteroffted.wikia.com/wiki/Jabberwocky) and promotion to principal developer.",
         "start": "2011-07",
         "end": "2013-08",
-        "keywords": ["C++","C","Linux"],
+        "keywords": ["C++","C","Linux","R","Clojure"],
         "highlights": ["Managed a 5-person development team", "Accomplishment 2", "Etc."]
       },
 
@@ -139,6 +138,7 @@
 
       {
         "institution": "Medfield College",
+        "title": "",
         "url": "https://en.wikipedia.org/wiki/Medfield_College",
         "start": "2003-09",
         "end": "2005-06",

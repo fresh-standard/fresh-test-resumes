@@ -3,8 +3,8 @@
   "name": "Johnny Trouble",
 
   "meta": {
-    "format": "FRESH@0.4.0",
-    "version": "0.2.0"
+    "format": "FRESH@0.6.0",
+    "version": "0.2.1"
   },
 
   "info": {
@@ -71,6 +71,7 @@
     "history": [
       {
         "institution": "'Doesn't Exist' College",
+        "title": "**BSCS**",
         "url": "https://a-problematic-url.io#section?q=123&z=242",
         "start": "2003-09",
         "end": "2005-06",
