@@ -23,7 +23,7 @@ MIT. See [LICENSE.md][lic] for details.
 [e]: src/fresh/empty.fresh.json
 [jq]: src/fresh/jane-fullstacker.fresh.json
 [jt]: src/fresh/johnny-trouble.fresh.json
-[jtb]: src/fresh/johnny-trouble.broken.fresh.jsnon
+[jtb]: src/fresh/johnny-trouble.broken.fresh.json
 [lic]: https://github.com/fluentdesk/fresh-test-resumes/blob/master/LICENSE.md
 [f]: https://github.com/fluentdesk/FRESCA
 [s]: src/fresh/starter-resume.fresh.json
