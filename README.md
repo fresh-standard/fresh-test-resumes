@@ -1,40 +1,29 @@
 fresh-test-resumes
 ==================
-Test résumés and CVs in [FRESH][f] and [JSON Resume][jrs] formats.
+Test résumés and CVs in [FRESH][f] format and JSON Resume formats. For testing
+purposes.
 
-## FRESH resumes
+- [**empty.fresh.json**][e]: An empty FRESH résumé.
 
-- [**empty.json**][e]: An empty FRESH résumé.
-- [**short.json**][sh]: The shortest legal FRESH résumé.
-- [**jane-fullstacker.json**][jq]: Jane Q. Fullstacker's valid FRESH
+- [**jane-fullstacker.fresh.json**][jq]: Jane Q. Fullstacker's valid FRESH
 résumé (a normal resume).
-- [**johnny-trouble.json**][jt]: Johnny Trouble's valid FRESH résumé (a
-resume with garbage characters).
+
+- [**johnny-trouble.fresh.json**][jt]: Johnny Trouble's valid FRESH résumé (a
+resume full of garbage characters).
+
 - [**johnny-trouble.broken.json**][jtb]: Broken version of Johnny Trouble's
-résumé (a resume with JSON syntax errors.)
-- [**starter-resume.json**][s]: A starter résumé with sample data.
+résumé (a resume with numerous JSON syntax errors.)
 
-## JRS resumes
-
-- [**empty.json**][e2]: An empty JRS résumé.
-- [**jane-fullstacker.json**][jq2]: JRS version of Jane Q. Fullstacker's résumé.
-- [**john-doe.json**][jdoe]: John Doe's JRS résumé.
-- [**richard-hendriks.json**][rh]: Richard Hendrik's sample résumé.
+- [**starter-resume.fresh.json**][s]: A starter résumé with sample data.
 
 ## License
 
 MIT. See [LICENSE.md][lic] for details.
 
-[f]: https://github.com/fluentdesk/FRESCA
-[jrs]: http://jsonresume.org
-[e]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/empty.json
-[e2]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/empty.json
-[jq]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/jane-fullstacker.json
-[jq2]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/jane-fullstacker.json
-[jt]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/johnny-trouble.json
-[jtb]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/johnny-trouble.broken.json
-[sh]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/short.json
-[jdoe]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/john-doe.json
-[rh]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/richard-hendriks.json
-[s]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/starter-resume.json
+[e]: src/empty.fresh.json
+[jq]: src/jane-fullstacker.fresh.json
+[jt]: src/johnny-trouble.fresh.json
+[jtb]: src/johnny-trouble.broken.fresh.jsnon
 [lic]: https://github.com/fluentdesk/fresh-test-resumes/blob/master/LICENSE.md
+[f]: https://github.com/fluentdesk/FRESCA
+[s]: src/starter-resume.fresh.json
