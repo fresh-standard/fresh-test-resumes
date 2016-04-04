@@ -20,10 +20,10 @@ résumé (a resume with numerous JSON syntax errors.)
 
 MIT. See [LICENSE.md][lic] for details.
 
-[e]: src/empty.fresh.json
-[jq]: src/jane-fullstacker.fresh.json
-[jt]: src/johnny-trouble.fresh.json
-[jtb]: src/johnny-trouble.broken.fresh.jsnon
+[e]: src/fresh/empty.json
+[jq]: src/fresh/jane-fullstacker.json
+[jt]: src/fresh/johnny-trouble.json
+[jtb]: src/fresh/johnny-trouble.broken.json
 [lic]: https://github.com/fluentdesk/fresh-test-resumes/blob/master/LICENSE.md
 [f]: https://github.com/fluentdesk/FRESCA
-[s]: src/starter-resume.fresh.json
+[s]: src/fresh/starter-resume.json
