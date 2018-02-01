@@ -184,6 +184,16 @@
         "grade": "3.2",
         "summary": "A multiline summary of the education.",
         "curriculum": ["Course 1", "Course 2", "Course 2"]
+      },
+
+      {
+        "institution": "Ninjitsu Academy",
+        "title": "Grandmaster",
+        "start": "2000-02",
+        "end": "2007-06",
+        "grade": "A",
+        "summary": "Studied ninjitsu at a secluded mountain academy.",
+        "private": true
       }
     ]
 
@@ -218,6 +228,14 @@
         "start": "2003-02",
         "end": "2004-04",
         "summary": "Host of a monthly **campus-wide meetup for CS students**. Code, coffee, and crullers!"
+      },
+      {
+        "role": "Acolyte",
+        "organization": "Secret Society",
+        "start": "2002-02",
+        "end": "2003-02",
+        "summary": "Acolyte in a secret society, but I can't talk about it.",
+        "ignore": true
       }
     ]
   },
