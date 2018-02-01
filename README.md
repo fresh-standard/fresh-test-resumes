@@ -18,6 +18,8 @@ résumé (a resume with JSON syntax errors.)
 
 - [**empty.json**][e2]: An empty JRS résumé.
 - [**jane-fullstacker.json**][jq2]: JRS version of Jane Q. Fullstacker's résumé.
+- [**jane-incomplete.json**][jq2]: An incomplete (but legal) JRS version of Jane
+Q. Fullstacker's résumé.
 - [**john-doe.json**][jdoe]: John Doe's JRS résumé.
 - [**richard-hendriks.json**][rh]: Richard Hendrik's sample résumé.
 
