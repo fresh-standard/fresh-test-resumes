@@ -18,7 +18,7 @@ résumé (a resume with JSON syntax errors.)
 
 - [**empty.json**][e2]: An empty JRS résumé.
 - [**jane-fullstacker.json**][jq2]: JRS version of Jane Q. Fullstacker's résumé.
-- [**jane-incomplete.json**][jq2]: An incomplete (but legal) JRS version of Jane
+- [**jane-incomplete.json**][jq3]: An incomplete (but legal) JRS version of Jane
 Q. Fullstacker's résumé.
 - [**john-doe.json**][jdoe]: John Doe's JRS résumé.
 - [**richard-hendriks.json**][rh]: Richard Hendrik's sample résumé.
@@ -33,6 +33,7 @@ MIT. See [LICENSE.md][lic] for details.
 [e2]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/empty.json
 [jq]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/jane-fullstacker.json
 [jq2]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/jane-fullstacker.json
+[jq3]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/jane-incomplete.json
 [jt]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/johnny-trouble.json
 [jtb]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/johnny-trouble.broken.json
 [sh]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/short.json
