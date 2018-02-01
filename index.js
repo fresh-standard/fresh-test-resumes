@@ -6,8 +6,8 @@ Mount individual resumes onto the module object for convenience.
 
 (function(){
 
-  var FS = require('fs');
-  var PATH = require('path');
+  var fs = require('fs');
+  var path = require('path');
 
   module.exports = {
 
@@ -19,8 +19,8 @@ Mount individual resumes onto the module object for convenience.
       starter: require('./src/fresh/starter-resume.json'),
       // Can't mount a broken resume (invalid JSON)
       //johnnyBroken: require('./src/johnny-trouble.broken.json')
-      johnnyBroken: FS.readFileSync(
-        PATH.join( __dirname, './src/fresh/johnny-trouble.broken.json'),
+      johnnyBroken: fs.readFileSync(
+        path.join( __dirname, './src/fresh/johnny-trouble.broken.json'),
         'utf8'
       )
     },
