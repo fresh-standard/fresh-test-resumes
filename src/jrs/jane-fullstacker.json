@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jane Q. Fullstacker",
     "label": "Senior Developer",
-    "summary": "**Full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
+    "summary": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
     "website": "http://janef.me/blog",
     "phone": "1-650-999-7777",
     "email": "jdoe@onecoolstartup.io",
@@ -29,11 +29,11 @@
   },
   "work": [
     {
-      "company": "One Cool Startup",
-      "website": "https://onecool.io/does-not-exist",
+      "company": "Area 52",
+      "website": "https://area52.io/does-not-exist",
       "position": "Head Code Ninja",
       "startDate": "2013-09",
-      "summary": "Development team manager for OneCoolApp and OneCoolWebsite, a free social network tiddlywink generator and lifestyle portal with over 200,000 users.",
+      "summary": "Development team manager for [**Quantum Diorama**](https://en.wikipedia.org/wiki/Vaporware), a distributed molecular modeling and analysis suite for Linux and OS X.",
       "highlights": [
         "Managed a 5-person development team",
         "Accomplishment 2",
@@ -100,11 +100,18 @@
       ],
       "startDate": "2003-09",
       "endDate": "2005-06"
+    },
+    {
+      "institution": "Ninjitsu Academy",
+      "gpa": "A",
+      "startDate": "2000-02",
+      "endDate": "2007-06"
     }
   ],
   "skills": [
     {
-      "name": "Web Dev",
+      "name": "Web",
+      "level": "advanced",
       "keywords": [
         "JavaScript",
         "HTML 5",
@@ -116,6 +123,7 @@
     },
     {
       "name": "JavaScript",
+      "level": "master",
       "keywords": [
         "Node.js",
         "Angular.js",
@@ -127,6 +135,7 @@
     },
     {
       "name": "Database",
+      "level": "intermediate",
       "keywords": [
         "MySQL",
         "PostgreSQL",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Cloud",
+      "level": "intermediate",
       "keywords": [
         "AWS",
         "EC2",
@@ -148,9 +158,12 @@
     },
     {
       "name": "Project",
+      "level": "beginner",
       "keywords": [
         "Agile",
         "TFS",
+        "JIRA",
+        "GitHub",
         "Unified Process",
         "MS Project"
       ]
@@ -158,6 +171,7 @@
   ],
   "volunteer": [
     {
+      "flavor": "volunteer",
       "organization": "Technology for Tots",
       "position": "Technical Consultant",
       "startDate": "2003-11",
@@ -171,6 +185,7 @@
       ]
     },
     {
+      "flavor": "military",
       "organization": "US Army Reserves",
       "position": "NCO",
       "startDate": "1999-11",
@@ -186,11 +201,13 @@
   ],
   "awards": [
     {
+      "flavor": "award",
       "title": "Honorable Mention",
       "date": "2012",
       "awarder": "Google"
     },
     {
+      "flavor": "honor",
       "title": "Summa cum laude",
       "date": "2012",
       "awarder": "Cornell University"
@@ -258,6 +275,54 @@
       "language": "Spanish",
       "level": "Moderate",
       "years": 10
+    }
+  ],
+  "projects": [
+    {
+      "name": "HackMyResume",
+      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "cross-platform",
+        "JSON"
+      ],
+      "startDate": "2015-09",
+      "url": "https://fluentdesk.com/hackmyresume",
+      "roles": [
+        "contributor"
+      ]
+    },
+    {
+      "name": "Augmented Android",
+      "description": "An augmented reality app for Android.",
+      "keywords": [
+        "Android",
+        "Java",
+        "Xamarin"
+      ],
+      "startDate": "2012-02",
+      "endDate": "2014-01",
+      "url": "http://project.website.com",
+      "roles": [
+        "co-creator"
+      ]
+    },
+    {
+      "name": "Blog",
+      "description": "My programming blog. Powered by Jekyll.",
+      "keywords": [
+        "Jekyll",
+        "Ruby",
+        "HTML 5",
+        "JavaScript",
+        "HTTP",
+        "LAMP"
+      ],
+      "url": "http://myblog.jane.com/blog",
+      "roles": [
+        "creator"
+      ]
     }
   ]
 }
