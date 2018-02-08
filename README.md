@@ -27,7 +27,7 @@ Q. Fullstacker's résumé.
 
 MIT. See [LICENSE.md][lic] for details.
 
-[f]: https://github.com/fluentdesk/FRESCA
+[f]: https://github.com/fresh-standard/fresh-resume-schema
 [jrs]: http://jsonresume.org
 [e]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/fresh/empty.json
 [e2]: https://github.com/fresh-standard/fresh-test-resumes/blob/master/src/jrs/empty.json
